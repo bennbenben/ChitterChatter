@@ -9,12 +9,12 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	
-	<groupId>com.chitterchatter</groupId>
-	<artifactId>chitter_chatter</artifactId>
+	<groupId>com.twitterbutbetter</groupId>
+	<artifactId>twitter_but_better</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	
 	<name>chitter_chatter</name>
-	<description>Chitter Chatter Backend</description>
+	<description>Twitter But Better Backend</description>
 	
 	<properties>
 		<java.version>17</java.version>
