@@ -1,13 +1,13 @@
-package com.chitterchatter;
+package com.twitterbutbetter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ChitterChatterApplication {
+public class TwitterButBetterApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ChitterChatterApplication.class, args);
+		SpringApplication.run(TwitterButBetterApplication.class, args);
 	}
 
 }

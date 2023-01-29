@@ -1,4 +1,4 @@
-package com.chitterchatter.config;
+package com.twitterbutbetter.config;
 
 import java.util.Arrays;
 
@@ -9,7 +9,7 @@ import org.springframework.security.web.SecurityFilterChain;
 import org.springframework.web.cors.CorsConfiguration;
 import org.springframework.web.cors.CorsConfigurationSource;
 
-import com.chitterchatter.constants.AppConstants;
+import com.twitterbutbetter.constants.AppConstants;
 
 import jakarta.servlet.http.HttpServletRequest;
 

@@ -1,4 +1,4 @@
-package com.chitterchatter.constants;
+package com.twitterbutbetter.constants;
 
 import java.util.Collections;
 import java.util.List;
