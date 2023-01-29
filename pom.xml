@@ -13,7 +13,7 @@
 	<artifactId>twitter_but_better</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	
-	<name>chitter_chatter</name>
+	<name>twitter_but_better</name>
 	<description>Twitter But Better Backend</description>
 	
 	<properties>
